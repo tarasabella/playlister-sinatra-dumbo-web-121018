@@ -19,7 +19,7 @@ this lab, you'll be:
     Songs and Genres.
 
 ## File Structure
-
+k
 Your application should use the following file structure. Notice how there are
 separate controllers for songs, artists, and genres. Separately, we have
 sub-directories for views for songs, artists, and genres.
